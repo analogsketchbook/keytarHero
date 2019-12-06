@@ -11,4 +11,6 @@ The code in this repository allows you to connect a Guitar Hero Wii Controller t
   
   * __setupInstructions.txt:__ Complete instructions on setting up the Raspberry Pi, Pure Data, and the hardware connection between the Raspberry Pi and the Wii GuitarHero Controller
   
+  * __oscillatorTest.pd:__ A simple test patch to make sure the Pure Data install and setup is working.
+  
   Note: This has only been tested on the Raspberry Pi 3 B+ but should theoretically work on the 4 as well. The controller library doesn't work for the Touchbar version of the Guitar, but could be modified to do so.
