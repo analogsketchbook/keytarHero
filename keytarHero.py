@@ -13,7 +13,7 @@ import wiiGHController
 import time, os, subprocess
 
 DONE = False
-PD_PATCH_PATH = "/home/pi/Documents/Pd/keytarHero.pd"   # path to your Pd patch
+PD_PATCH_PATH = "/home/pi/keytarHero/keytarHero.pd"   # path to your Pd patch
 
 def send2Pd(message):
     '''Sends messages to the Pure Data patch via udp'''
